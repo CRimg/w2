@@ -1,0 +1,51 @@
+.converter{
+    margin-left:48%;
+    text-emphasis-color: aqua;
+}
+.button1{
+        text-decoration: none;
+        margin-left:48%;
+        display: inline-block;
+        color: white;
+        padding: 20px 30px;
+        border-radius: 10px;
+        font-family: 'Montserrat', sans-serif;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        background-image: linear-gradient(to right, #9EEFE1 0%, #4830F0 51%, #9EEFE1 100%);
+        background-size: 200% auto;
+        box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+        transition: .5s;     
+}
+.button1:hover{
+    margin-left: 46%;
+    background-position: right center;
+    background-color: cadetblue;
+}
+.num{
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+input{
+	font-size: 13px;
+	padding: 6px 0 4px 10px;
+	border: 1px solid #cecece;
+	background: #F6F6f6;
+	border-radius: 8px;
+}
+.comm{
+    margin: 15px 0 15px 15px;
+    font-size: 10px;
+    border: 0.5px solid #9EEFE1;
+    background: #cecece;
+    border-radius: 5px;
+}
+.curs{
+    position: absolute;
+    margin-left: 75%;
+    margin-top: -10%;
+    size: 5px;
+} 
+.pln1{
+    margin-left: -18px;
+}
